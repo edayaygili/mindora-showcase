@@ -27,7 +27,10 @@ Automated tests are used to evaluate puzzle solvability across 300 levels and id
 
 ## Screenshots
 
-Coming soon.
+| Main Menu | Level Selection | Gameplay |
+|:---:|:---:|:---:|
+| <img src="main-menu.png" width="250"> | <img src="level-selection.png" width="250"> | <img src="gameplay.png" width="250"> |
+
 
 ## Gameplay Demo
 

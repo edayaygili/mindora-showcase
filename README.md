@@ -34,7 +34,10 @@ Automated tests are used to evaluate puzzle solvability across 300 levels and id
 
 ## Gameplay Demo
 
-Coming soon.
+Watch Mindora in action, featuring puzzle mechanics, level progression, move-based challenges, and the star-based reward system.
+
+[▶ Watch Gameplay Demo](mindora-gameplay.mp4)
+
 
 ## Project Status
 

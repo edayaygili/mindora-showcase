@@ -45,7 +45,8 @@ https://github.com/user-attachments/assets/e0d096fc-281a-4955-9a7f-76024f50b19e
 
 ## Project Status
 
-Currently under development and testing.
+Functional prototype with 300 puzzle levels, core gameplay mechanics, and a player progression system. Currently undergoing further testing, refinement, and optimization.
+
 
 ## Developer
 
@@ -53,7 +54,6 @@ Eda Yaygılı – Software Engineer & Independent Game Developer
 
 ## Source Code
 
-This repository serves as a public project showcase.
-The game's source code is privately maintained.
+This repository serves as a public portfolio showcasing Mindora's gameplay, design, and technical features. The source code is privately maintained and is not publicly available.
 
 © 2026 Eda Yaygılı. All rights reserved.
